@@ -94,37 +94,6 @@ The project evaluates SHAP and LIME explanations across six datasets, two tree-b
 
 **Project status:** Evaluation pipeline implemented, with further validation and cross-domain statistical analysis remaining.
 
-
-
-
-## 💼 Professional Experience
-
-**Data Analytics Intern | Tech Assembly.io**  
-*January 2025 – June 2025*
-
-- Cleaned and transformed datasets using Excel, SQL, and Python.
-- Conducted exploratory data analysis to identify trends and patterns.
-- Developed Power BI and Tableau dashboards for KPI monitoring.
-- Prepared analytical reports and business recommendations.
-- Communicated findings through data visualisation and storytelling.
-
-**Technology Intern | BlueAprils Capital Group**  
-*October 2025 – April 2026*
-
-- Designed Entity Relationship Diagrams for relational database modelling.
-- Collaborated with frontend and backend developers.
-- Contributed to database design and technical documentation.
-- Used Git and Docker in collaborative development workflows.
-- Supported application testing, troubleshooting, and implementation.
-
-## 📜 Certifications
-
-- Google Data Analytics Professional Certificate — Coursera (2025)
-- Data Fundamentals — IBM SkillsBuild (2026)
-- AI Literacy — IBM SkillsBuild (2026)
-- Cloud Computing Fundamentals — IBM SkillsBuild (2026)
-- Cybersecurity Fundamentals — IBM SkillsBuild (2026)
-
 ## 🌱 Areas of Interest
 
 - Business analytics and business intelligence
