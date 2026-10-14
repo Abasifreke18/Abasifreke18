@@ -78,7 +78,7 @@ An ongoing analytics investigation using the World Bank Enterprise Survey, Niger
 
 **Tools:** Python, SQL, data analysis, business intelligence.
 
-###3. Cross-Domain Evaluation of Explainable AI (XAI)
+### 3. Cross-Domain Evaluation of Explainable AI (XAI)
 
 A collaborative research project investigating whether explanation-quality metrics behave consistently across healthcare and finance datasets.
 
