@@ -87,7 +87,7 @@ Collaborative research investigating how SHAP and LIME explanations perform acro
 **My focus:** Research documentation and methodology.
 
 *Collaborative project; see the repository for project details and acknowledge all contributors.*
-🔗 **Repository:** [https://github.com/M-CEE/xai-eva]
+🔗 **Repository:** [https://github.com/M-CEE/xai-eval]
 
 ## 🌱 Areas of Interest
 
