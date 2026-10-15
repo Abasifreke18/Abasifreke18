@@ -80,19 +80,14 @@ An ongoing analytics investigation using the World Bank Enterprise Survey, Niger
 
 ### 3. Cross-Domain Evaluation of Explainable AI (XAI)
 
-A collaborative research project investigating whether explanation-quality metrics behave consistently across healthcare and finance datasets.
+Collaborative research investigating how SHAP and LIME explanations perform across six healthcare and finance datasets using Random Forest and XGBoost models.
 
-The project evaluates SHAP and LIME explanations across six datasets, two tree-based machine learning models, and five explanation-quality metric families.
+**Research focus:** Explanation fidelity, robustness, stability, simplicity, and computational efficiency.
 
-**Research focus:**
-- Evaluating explanation fidelity, robustness, stability, simplicity, and computational efficiency.
-- Comparing SHAP and LIME across healthcare and finance applications.
-- Investigating the influence of datasets and model choices on explanation quality.
-- Building a reproducible evaluation pipeline for systematic XAI assessment.
+**My focus:** Research documentation and methodology.
 
-**Technologies:** Python, Jupyter Notebook, Random Forest, XGBoost, SHAP, LIME.
-
-**Project status:** Evaluation pipeline implemented, with further validation and cross-domain statistical analysis remaining.
+*Collaborative project; see the repository for project details and acknowledge all contributors.*
+🔗 **Repository:** [https://github.com/M-CEE/xai-eva]
 
 ## 🌱 Areas of Interest
 
